@@ -11,7 +11,7 @@ let s:cpo_save = &cpo
 set cpo&vim
 
 " Predefined Functions:
-syntax keyword mmaSystemSymbol AASTriangle AbelianGroup Abort AbortKernels AbortProtect AbortScheduledTask
+syntax keyword mmaTesting123 AASTriangle AbelianGroup Abort AbortKernels AbortProtect AbortScheduledTask
 syntax keyword mmaSystemSymbol AbortScheduledTask Above Abs AbsArg Absolute AbsoluteCorrelation
 syntax keyword mmaSystemSymbol AbsoluteCorrelation AbsoluteCorrelationFunction AbsoluteCurrentValue AbsoluteDashing AbsoluteFileName AbsoluteOptions
 syntax keyword mmaSystemSymbol AbsoluteOptions AbsolutePointSize AbsoluteThickness AbsoluteTime AbsoluteTiming AccountingForm
