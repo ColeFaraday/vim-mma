@@ -1339,7 +1339,20 @@ syntax match mmaError "\%([/]{3,}\|[&:|+*?~-]\{3,}\|[.=]\{4,}\|_\@<=\.\{2,}\|`\{
 
 hi def link mmaShebang      PreProc
 hi def link mmaComment      Comment
-hi def link mmaSymbol       Identifier
+hi def link mmaSymbol1       Identifier
+hi def link mmaSymbol2       Identifier
+hi def link mmaSymbol3       Identifier
+hi def link mmaSymbol4       Identifier
+hi def link mmaSymbol5       Identifier
+hi def link mmaSymbol6       Identifier
+hi def link mmaSymbol7       Identifier
+hi def link mmaSymbol8       Identifier
+hi def link mmaSymbol9       Identifier
+hi def link mmaSymbol10       Identifier
+hi def link mmaSymbol11       Identifier
+hi def link mmaSymbol12       Identifier
+hi def link mmaSymbol13       Identifier
+hi def link mmaSymbol14       Identifier
 hi def link mmaSystemSymbol Function
 hi def link mmaOperator     Operator
 hi def link mmaSlot         Operator
